@@ -1,4 +1,8 @@
 # Homer vs Bart — Classificação de Imagens com CNN
+![Status](https://img.shields.io/badge/status-Finalizado-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Keras](https://img.shields.io/badge/Keras-TensorFlow-red?logo=keras)
+
 
 Este projeto aplica uma rede neural convolucional (CNN) para classificar imagens dos personagens Homer e Bart Simpson. A rede foi desenvolvida em Python com TensorFlow/Keras, utilizando um dataset personalizado com imagens de ambos os personagens.
 
